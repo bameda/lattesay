@@ -1,0 +1,24 @@
+{
+  "name": "lattesay",
+  "version": "1.0.0",
+  "description": "lattesay is a configurable talking cow written in coffee",
+  "license": "MIT",
+  "homepage": "https://github.com/taiga.io/taiga-front",
+  "authors": [
+    { "name": "David Barragán", "email": "bameda@dbarragan.com", "url": "https://github.com/bameda/" }
+    { "name": "Fabio Crisci", "email": "piuccio@gmail.com", "url": "https://github.com/piuccio/" }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bameda/lattesay.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ],
+  "private": false
+}

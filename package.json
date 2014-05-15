@@ -1,0 +1,24 @@
+{
+  "name": "lattesay",
+  "version": "1.0.0",
+  "description": "lattesay is a configurable talking cow written in coffee",
+  "keywords": [
+    "cow",
+    "cowsay",
+    "cowthink",
+    "figlet",
+    "talking",
+    "ASCII",
+    "fortunes"
+  ],
+  "homepage": "https://github.com/bameda/lattesay",
+  "author": [
+    { "name": "David Barragán", "email": "bameda@dbarragan.com", "url": "https://github.com/bameda/" }
+    { "name": "Fabio Crisci", "email": "piuccio@gmail.com", "url": "https://github.com/piuccio/" }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bameda/lattesay.git"
+  },
+  "preferGlobal": true
+}
